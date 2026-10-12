@@ -1,7 +1,7 @@
 ###################################################################### 
 # Tekijä: Taina Ylikarjula
 ###################################################################### 
-# L01T3: Laskentaoperaatiot ja tulostaminen
+# Laskentaoperaatiot ja tulostaminen
 # --- OSA 1: Laskutoimitus apumuuttujilla ---
 
 luku = 5          # 1. Määrittele luku
